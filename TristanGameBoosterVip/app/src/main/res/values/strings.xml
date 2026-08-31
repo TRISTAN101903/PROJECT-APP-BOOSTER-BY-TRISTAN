@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TRISTAN Game Booster VIP</string>
+    <string name="tagline">Performance • Gaming • Technology</string>
+    <string name="founder_credit">Designed &amp; Founded by TRISTAN NGUYEN</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_games">Games</string>
+    <string name="nav_network">Network</string>
+    <string name="nav_aimlab">Aim Lab</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home -->
+    <string name="performance_score">PERFORMANCE SCORE</string>
+    <string name="boost_now">BOOST NOW</string>
+    <string name="boost_complete">BOOST COMPLETE</string>
+
+    <!-- Boost stages -->
+    <string name="stage_initializing">INITIALIZING…</string>
+    <string name="stage_scanning">SCANNING DEVICE</string>
+    <string name="stage_ram">ANALYZING RAM</string>
+    <string name="stage_cpu">ANALYZING CPU</string>
+    <string name="stage_thermal">CHECKING THERMAL</string>
+    <string name="stage_network">CHECKING NETWORK</string>
+    <string name="stage_preparing">PREPARING GAMING SESSION</string>
+    <string name="stage_ready">READY</string>
+
+    <!-- Shared -->
+    <string name="not_available_on_device">NOT AVAILABLE ON THIS DEVICE</string>
+    <string name="na">N/A</string>
+    <string name="permission_required">PERMISSION REQUIRED</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="no_problems_found">NO PROBLEMS FOUND</string>
+
+    <!-- Content descriptions -->
+    <string name="cd_logo">TRISTAN Game Booster VIP logo</string>
+    <string name="cd_cpu_icon">CPU usage icon</string>
+    <string name="cd_ram_icon">RAM usage icon</string>
+    <string name="cd_temp_icon">Temperature icon</string>
+    <string name="cd_battery_icon">Battery icon</string>
+    <string name="cd_network_icon">Network icon</string>
+</resources>

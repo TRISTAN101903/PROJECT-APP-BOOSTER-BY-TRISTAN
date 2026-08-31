@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--
+        This XML theme only controls the pre-Compose window state (splash background,
+        system bar defaults) before MainActivity sets Compose content. All real theming
+        (Material 3 color scheme, typography) lives in presentation/theme/Theme.kt.
+    -->
+    <style name="Theme.TristanGameBoosterVip" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/tristan_bg_deep</item>
+        <item name="android:statusBarColor" tools:targetApi="21">@color/tristan_bg_deep</item>
+        <item name="android:navigationBarColor" tools:targetApi="21">@color/tristan_bg_deep</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="23">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
